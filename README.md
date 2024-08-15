@@ -16,7 +16,7 @@ I'm ErgoScarlett (Martina), a Full Stack Developer with a strong focus on Front-
 ### ⚡ Fun fact:
 - When I’m not coding, I’m busy riding dragons for the rightful heir to the Iron Throne, Rhaenyra Targaryen.
 
-
+### 💻 Programming Languages and Tools:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3.0-purple)
