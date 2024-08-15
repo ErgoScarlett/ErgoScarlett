@@ -1,4 +1,4 @@
-<div align="center">## Hello Community! 👾👾👾</div>
+## Hello Community! 👾👾👾
 
 <div align="center">
 I'm ErgoScarlett (Martina), a Full Stack Developer with a strong focus on Front-end Development and a passion for creating intuitive user experiences. I'm currently delving deeper into Web Design to combine my love for technology with creativity.</div>
