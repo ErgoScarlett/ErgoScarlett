@@ -1,8 +1,7 @@
 ## Hello Community! 👾👾👾
 
-<div align="center">
 I'm ErgoScarlett (Martina), I'm a **Full Stack Developer** with a strong focus on **Front-end Development** and a deep love for building clean, intuitive, and user-centered experiences.  
-Lately, I've been diving into **Web Design** and **UI/UX**, combining logic and creativity to craft digital products that not only work well—but feel right.</div>
+Lately, I've been diving into **Web Design** and **UI/UX**, combining logic and creativity to craft digital products that not only work well—but feel right.
 
 ---
 
@@ -38,14 +37,15 @@ Lately, I've been diving into **Web Design** and **UI/UX**, combining logic and 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
+---
+
 ### 💬 Ask me about:
 - Designing and building accessible, user-first interfaces  
 - Blending development and design into one workflow  
 - My full stack journey and testing adventures  
 - Why I stand with **Rhaenyra Targaryen** 🐉
 
-### ⚡ Fun fact:
-- When I’m not coding, I’m busy riding dragons for the rightful heir to the Iron Throne, Rhaenyra Targaryen.
+---
 
 ## 📫 Connect with me
 [LinkedIn](https://www.linkedin.com/in/martinareale93/)
