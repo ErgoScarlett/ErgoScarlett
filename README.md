@@ -24,7 +24,10 @@ Lately, I've been diving into **Web Design** and **UI/UX**, combining logic and 
 ### Back-end  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+
+### Databases  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 ### Design & Prototyping  
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
@@ -32,6 +35,7 @@ Lately, I've been diving into **Web Design** and **UI/UX**, combining logic and 
 ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
 
 ### Testing & Dev Tools  
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![TestNG](https://img.shields.io/badge/-TestNG-FF6C37?style=flat-square&logo=testng&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
